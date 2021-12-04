@@ -1,6 +1,8 @@
 # ThornsArchiver
 Archives the webcomic, Thorns. Made for a friend.
 
+Requires **requests** and **BeautifulSoup4**
+
 To use:
 
 Type in a command prompt:
